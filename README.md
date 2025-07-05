@@ -9,7 +9,7 @@ Zen browser bucket for [Scoop](https://scoop.sh), the Windows command-line insta
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add <bucketname> https://github.com/tree-s/zen-browser
+scoop bucket add zen-browser https://github.com/tree-s/zen-browser
 scoop install zen-browser/zen-browser
 ```
 
