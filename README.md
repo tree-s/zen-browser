@@ -1,4 +1,4 @@
-# Scoop Bucket Template
+# Zen browser Scoop Bucket
 
 [![Tests](https://github.com/tree-s/zen-browser/actions/workflows/ci.yml/badge.svg)](https://github.com/tree-s/zen-browser/actions/workflows/ci.yml) [![Excavator](https://github.com/tree-s/zen-browser/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml)
 
